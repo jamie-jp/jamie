@@ -1,0 +1,2 @@
+# jamie
+Trust nobody 
