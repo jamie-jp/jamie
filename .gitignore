@@ -1,5 +1,5 @@
-# Built application files
-*.apk
+# Built application files 
+*.apk Facebook
 *.aar
 *.ap_
 *.aab
@@ -60,7 +60,7 @@ captures/
 .cxx/
 
 # Google Services (e.g. APIs or Firebase)
-# google-services.json
+# google-service.google.com
 
 # Freeline
 freeline.py
